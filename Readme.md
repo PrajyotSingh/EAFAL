@@ -1,5 +1,12 @@
 # EAFAL: Edge-Based Agentic Framework for LLM Selection
 
+I am the second author of the EAFAL research paper.  
+This repository is my author-maintained fork for showcasing my research contribution and implementation involvement.
+
+Original official repository: https://github.com/manojMadarasingha/EAFL
+
+---
+
 > 🚧 **Repository Status:**  
 > This repository is currently under maintenance. Additional code, documentation, and experiments will be uploaded progressively.
 
